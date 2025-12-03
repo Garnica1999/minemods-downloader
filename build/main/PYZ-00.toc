@@ -1,0 +1,1341 @@
+('D:\\DOCUMENTOS\\Minecraft\\Server 2025\\launcher\\build\\main\\PYZ-00.pyz',
+ [('__future__',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\__future__.pyc',
+   'PYMODULE'),
+  ('_colorize',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_colorize.pyc',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_compat_pickle.pyc',
+   'PYMODULE'),
+  ('_compression',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_compression.pyc',
+   'PYMODULE'),
+  ('_markupbase',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_markupbase.pyc',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_opcode_metadata.pyc',
+   'PYMODULE'),
+  ('_py_abc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_py_abc.pyc',
+   'PYMODULE'),
+  ('_pydatetime',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_pydatetime.pyc',
+   'PYMODULE'),
+  ('_pydecimal',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_pydecimal.pyc',
+   'PYMODULE'),
+  ('_strptime',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_strptime.pyc',
+   'PYMODULE'),
+  ('_threading_local',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\_threading_local.pyc',
+   'PYMODULE'),
+  ('argparse',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\argparse.pyc',
+   'PYMODULE'),
+  ('ast',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ast.pyc',
+   'PYMODULE'),
+  ('asyncio',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\__init__.pyc',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\base_events.pyc',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\base_futures.pyc',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\base_subprocess.pyc',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\base_tasks.pyc',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\constants.pyc',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\coroutines.pyc',
+   'PYMODULE'),
+  ('asyncio.events',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\events.pyc',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\exceptions.pyc',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\format_helpers.pyc',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\futures.pyc',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\locks.pyc',
+   'PYMODULE'),
+  ('asyncio.log',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\log.pyc',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\mixins.pyc',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\proactor_events.pyc',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\protocols.pyc',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\queues.pyc',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\runners.pyc',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\selector_events.pyc',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\sslproto.pyc',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\staggered.pyc',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\streams.pyc',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\subprocess.pyc',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\taskgroups.pyc',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\tasks.pyc',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\threads.pyc',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\timeouts.pyc',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\transports.pyc',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\trsock.pyc',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\unix_events.pyc',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\windows_events.pyc',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\asyncio\\windows_utils.pyc',
+   'PYMODULE'),
+  ('base64',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\base64.pyc',
+   'PYMODULE'),
+  ('bisect',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\bisect.pyc',
+   'PYMODULE'),
+  ('bs4',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4._deprecation',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\_deprecation.py',
+   'PYMODULE'),
+  ('bs4._typing',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\_typing.py',
+   'PYMODULE'),
+  ('bs4._warnings',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\_warnings.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.exceptions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\exceptions.py',
+   'PYMODULE'),
+  ('bs4.filter',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\filter.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\bz2.pyc',
+   'PYMODULE'),
+  ('calendar',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\calendar.pyc',
+   'PYMODULE'),
+  ('certifi',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('colorama',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('concurrent',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\concurrent\\__init__.pyc',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\concurrent\\futures\\__init__.pyc',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\concurrent\\futures\\_base.pyc',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\concurrent\\futures\\process.pyc',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\concurrent\\futures\\thread.pyc',
+   'PYMODULE'),
+  ('contextlib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\contextlib.pyc',
+   'PYMODULE'),
+  ('contextvars',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\contextvars.pyc',
+   'PYMODULE'),
+  ('copy',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\copy.pyc',
+   'PYMODULE'),
+  ('csv',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\csv.pyc',
+   'PYMODULE'),
+  ('ctypes',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ctypes\\__init__.pyc',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ctypes\\_endian.pyc',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ctypes\\wintypes.pyc',
+   'PYMODULE'),
+  ('dataclasses',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\dataclasses.pyc',
+   'PYMODULE'),
+  ('datetime',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\datetime.pyc',
+   'PYMODULE'),
+  ('decimal',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\decimal.pyc',
+   'PYMODULE'),
+  ('dis',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\dis.pyc',
+   'PYMODULE'),
+  ('email',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\__init__.pyc',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\_encoded_words.pyc',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\_header_value_parser.pyc',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\_parseaddr.pyc',
+   'PYMODULE'),
+  ('email._policybase',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\_policybase.pyc',
+   'PYMODULE'),
+  ('email.base64mime',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\base64mime.pyc',
+   'PYMODULE'),
+  ('email.charset',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\charset.pyc',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\contentmanager.pyc',
+   'PYMODULE'),
+  ('email.encoders',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\encoders.pyc',
+   'PYMODULE'),
+  ('email.errors',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\errors.pyc',
+   'PYMODULE'),
+  ('email.feedparser',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\feedparser.pyc',
+   'PYMODULE'),
+  ('email.generator',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\generator.pyc',
+   'PYMODULE'),
+  ('email.header',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\header.pyc',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\headerregistry.pyc',
+   'PYMODULE'),
+  ('email.iterators',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\iterators.pyc',
+   'PYMODULE'),
+  ('email.message',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\message.pyc',
+   'PYMODULE'),
+  ('email.parser',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\parser.pyc',
+   'PYMODULE'),
+  ('email.policy',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\policy.pyc',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\quoprimime.pyc',
+   'PYMODULE'),
+  ('email.utils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\email\\utils.pyc',
+   'PYMODULE'),
+  ('filelock',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\__init__.py',
+   'PYMODULE'),
+  ('filelock._api',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\_api.py',
+   'PYMODULE'),
+  ('filelock._error',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\_error.py',
+   'PYMODULE'),
+  ('filelock._soft',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\_soft.py',
+   'PYMODULE'),
+  ('filelock._unix',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\_unix.py',
+   'PYMODULE'),
+  ('filelock._util',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\_util.py',
+   'PYMODULE'),
+  ('filelock._windows',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\_windows.py',
+   'PYMODULE'),
+  ('filelock.asyncio',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\asyncio.py',
+   'PYMODULE'),
+  ('filelock.version',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\filelock\\version.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\fnmatch.pyc',
+   'PYMODULE'),
+  ('fractions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\fractions.pyc',
+   'PYMODULE'),
+  ('ftplib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ftplib.pyc',
+   'PYMODULE'),
+  ('gdown',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\__init__.py',
+   'PYMODULE'),
+  ('gdown._indent',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\_indent.py',
+   'PYMODULE'),
+  ('gdown.cached_download',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\cached_download.py',
+   'PYMODULE'),
+  ('gdown.download',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\download.py',
+   'PYMODULE'),
+  ('gdown.download_folder',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\download_folder.py',
+   'PYMODULE'),
+  ('gdown.exceptions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\exceptions.py',
+   'PYMODULE'),
+  ('gdown.extractall',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\extractall.py',
+   'PYMODULE'),
+  ('gdown.parse_url',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\gdown\\parse_url.py',
+   'PYMODULE'),
+  ('getopt',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\getopt.pyc',
+   'PYMODULE'),
+  ('getpass',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\getpass.pyc',
+   'PYMODULE'),
+  ('gettext',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\gettext.pyc',
+   'PYMODULE'),
+  ('glob',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\glob.pyc',
+   'PYMODULE'),
+  ('gzip',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\gzip.pyc',
+   'PYMODULE'),
+  ('hashlib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\hashlib.pyc',
+   'PYMODULE'),
+  ('hmac',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\hmac.pyc',
+   'PYMODULE'),
+  ('html',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\html\\__init__.pyc',
+   'PYMODULE'),
+  ('html.entities',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\html\\entities.pyc',
+   'PYMODULE'),
+  ('html.parser',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\html\\parser.pyc',
+   'PYMODULE'),
+  ('http',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\http\\__init__.pyc',
+   'PYMODULE'),
+  ('http.client',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\http\\client.pyc',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\http\\cookiejar.pyc',
+   'PYMODULE'),
+  ('http.cookies',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\http\\cookies.pyc',
+   'PYMODULE'),
+  ('idna',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\__init__.pyc',
+   'PYMODULE'),
+  ('importlib._abc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\_abc.pyc',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\_bootstrap.pyc',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\_bootstrap_external.pyc',
+   'PYMODULE'),
+  ('importlib.abc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\abc.pyc',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\machinery.pyc',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\__init__.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\_adapters.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\_collections.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\_functools.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\_itertools.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\_meta.pyc',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\metadata\\_text.pyc',
+   'PYMODULE'),
+  ('importlib.readers',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\readers.pyc',
+   'PYMODULE'),
+  ('importlib.resources',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\__init__.pyc',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\_adapters.pyc',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\_common.pyc',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\_functional.pyc',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\_itertools.pyc',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\abc.pyc',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\resources\\readers.pyc',
+   'PYMODULE'),
+  ('importlib.util',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\importlib\\util.pyc',
+   'PYMODULE'),
+  ('inspect',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\inspect.pyc',
+   'PYMODULE'),
+  ('ipaddress',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ipaddress.pyc',
+   'PYMODULE'),
+  ('json',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\json\\__init__.pyc',
+   'PYMODULE'),
+  ('json.decoder',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\json\\decoder.pyc',
+   'PYMODULE'),
+  ('json.encoder',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\json\\encoder.pyc',
+   'PYMODULE'),
+  ('json.scanner',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\json\\scanner.pyc',
+   'PYMODULE'),
+  ('logging',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\logging\\__init__.pyc',
+   'PYMODULE'),
+  ('lzma',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\lzma.pyc',
+   'PYMODULE'),
+  ('mimetypes',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\mimetypes.pyc',
+   'PYMODULE'),
+  ('multiprocessing',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\__init__.pyc',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\connection.pyc',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\context.pyc',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\dummy\\__init__.pyc',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\dummy\\connection.pyc',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\forkserver.pyc',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\heap.pyc',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\managers.pyc',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\pool.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\popen_fork.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\popen_forkserver.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\popen_spawn_posix.pyc',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\popen_spawn_win32.pyc',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\process.pyc',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\queues.pyc',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\reduction.pyc',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\resource_sharer.pyc',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\resource_tracker.pyc',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\shared_memory.pyc',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\sharedctypes.pyc',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\spawn.pyc',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\synchronize.pyc',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\multiprocessing\\util.pyc',
+   'PYMODULE'),
+  ('netrc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\netrc.pyc',
+   'PYMODULE'),
+  ('nturl2path',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\nturl2path.pyc',
+   'PYMODULE'),
+  ('numbers',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\numbers.pyc',
+   'PYMODULE'),
+  ('opcode',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\opcode.pyc',
+   'PYMODULE'),
+  ('pathlib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\pathlib\\__init__.pyc',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\pathlib\\_abc.pyc',
+   'PYMODULE'),
+  ('pathlib._local',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\pathlib\\_local.pyc',
+   'PYMODULE'),
+  ('pickle',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\pickle.pyc',
+   'PYMODULE'),
+  ('pkgutil',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\pkgutil.pyc',
+   'PYMODULE'),
+  ('pprint',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\pprint.pyc',
+   'PYMODULE'),
+  ('py_compile',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\py_compile.pyc',
+   'PYMODULE'),
+  ('queue',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\queue.pyc',
+   'PYMODULE'),
+  ('quopri',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\quopri.pyc',
+   'PYMODULE'),
+  ('random',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\random.pyc',
+   'PYMODULE'),
+  ('requests',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('runpy',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\runpy.pyc',
+   'PYMODULE'),
+  ('secrets',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\secrets.pyc',
+   'PYMODULE'),
+  ('selectors',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\selectors.pyc',
+   'PYMODULE'),
+  ('shlex',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\shlex.pyc',
+   'PYMODULE'),
+  ('shutil',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\shutil.pyc',
+   'PYMODULE'),
+  ('signal',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\signal.pyc',
+   'PYMODULE'),
+  ('socket',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\socket.pyc',
+   'PYMODULE'),
+  ('socks',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\ssl.pyc',
+   'PYMODULE'),
+  ('statistics',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\statistics.pyc',
+   'PYMODULE'),
+  ('string',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\string.pyc',
+   'PYMODULE'),
+  ('stringprep',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\stringprep.pyc',
+   'PYMODULE'),
+  ('subprocess',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\subprocess.pyc',
+   'PYMODULE'),
+  ('tarfile',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\tarfile.pyc',
+   'PYMODULE'),
+  ('tempfile',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\tempfile.pyc',
+   'PYMODULE'),
+  ('textwrap',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\textwrap.pyc',
+   'PYMODULE'),
+  ('threading',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\threading.pyc',
+   'PYMODULE'),
+  ('token',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\token.pyc',
+   'PYMODULE'),
+  ('tokenize',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\tokenize.pyc',
+   'PYMODULE'),
+  ('tqdm',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\__init__.py',
+   'PYMODULE'),
+  ('tqdm._dist_ver',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\_dist_ver.py',
+   'PYMODULE'),
+  ('tqdm._monitor',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\_monitor.py',
+   'PYMODULE'),
+  ('tqdm._tqdm_pandas',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\_tqdm_pandas.py',
+   'PYMODULE'),
+  ('tqdm.cli',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\cli.py',
+   'PYMODULE'),
+  ('tqdm.gui',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\gui.py',
+   'PYMODULE'),
+  ('tqdm.notebook',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\notebook.py',
+   'PYMODULE'),
+  ('tqdm.std',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\std.py',
+   'PYMODULE'),
+  ('tqdm.utils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\utils.py',
+   'PYMODULE'),
+  ('tqdm.version',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\tqdm\\version.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\tracemalloc.pyc',
+   'PYMODULE'),
+  ('typing',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\typing.pyc',
+   'PYMODULE'),
+  ('typing_extensions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('urllib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\urllib\\__init__.pyc',
+   'PYMODULE'),
+  ('urllib.error',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\urllib\\error.pyc',
+   'PYMODULE'),
+  ('urllib.parse',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\urllib\\parse.pyc',
+   'PYMODULE'),
+  ('urllib.request',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\urllib\\request.pyc',
+   'PYMODULE'),
+  ('urllib.response',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\urllib\\response.pyc',
+   'PYMODULE'),
+  ('urllib3',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('xml',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\__init__.pyc',
+   'PYMODULE'),
+  ('xml.parsers',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\parsers\\__init__.pyc',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\parsers\\expat.pyc',
+   'PYMODULE'),
+  ('xml.sax',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\sax\\__init__.pyc',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\sax\\_exceptions.pyc',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\sax\\expatreader.pyc',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\sax\\handler.pyc',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\sax\\saxutils.pyc',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xml\\sax\\xmlreader.pyc',
+   'PYMODULE'),
+  ('xmlrpc',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xmlrpc\\__init__.pyc',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\xmlrpc\\client.pyc',
+   'PYMODULE'),
+  ('zipfile',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\zipfile\\__init__.pyc',
+   'PYMODULE'),
+  ('zipfile._path',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\zipfile\\_path\\__init__.pyc',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\zipfile\\_path\\glob.pyc',
+   'PYMODULE'),
+  ('zipimport',
+   'D:\\DOCUMENTOS\\Minecraft\\Server '
+   '2025\\launcher\\python\\python313.zip\\zipimport.pyc',
+   'PYMODULE')])
